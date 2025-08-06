@@ -1,4 +1,4 @@
-# Simple Node App for CI/CD Demo
+# Simple Node App for CI/CD Demo Pipeline
 
 This is a simple Node.js application used for demonstrating a Jenkins CI/CD pipeline with Docker.
 
