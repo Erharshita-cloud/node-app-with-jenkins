@@ -1,4 +1,4 @@
-# 🚀 simple-node-app — Jenkins CI/CD Pipeline
+# 🚀 Simple-Node-App — Jenkins CI/CD Pipeline
 
 <div align="center">
 
